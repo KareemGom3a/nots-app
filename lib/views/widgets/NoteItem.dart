@@ -37,7 +37,7 @@ class NoteItem extends StatelessWidget {
                   )),
             ),
             Text(
-              'May22, 2024',
+              'May22, 2023',
               style: TextStyle(color: Colors.black),
             )
           ],
